@@ -4,7 +4,7 @@
 
 The data and R scripts below were used in the creation of our Landcover Class resistance surface, Validation model, as well as Figures 5 and 6 in 'Modelling functional connectivity for bears among spawning salmon waterways in Haíɫzaqv (Heiltsuk) Territory, coastal British Columbia' 
 
-Please contact the corresponding contact, Ilona Mihalik, at ilonammillie@gmail.com if you have any questions.
+Please contact the corresponding author, Ilona Mihalik, at ilonammillie@gmail.com if you have any questions.
 
 ## Description of the data and code files
 
